@@ -1,7 +1,6 @@
-<!-- Banner animado -->
-
+<!-- Banner animado com estilo tecnológico -->
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/lucasgfranco/lucasgfranco/main/assets/banner_final.gif" width="100%" />
 </div>
 
 <h1 align="center">👋 Olá, eu sou o Lucas Gonzaga Franco</h1>
@@ -11,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasgfranco&style=flat-square&color=blue" alt="Visualizações de perfil" />
+  <img src="https://komarev.com/ghpvc/?username=lucasgfranco&style=flat-square&color=blue" alt="Visualizações do perfil" />
 </div>
 
 ---
@@ -19,61 +18,48 @@
 ## 🧠 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Piaget (formando em 2026)  
-- 💡 Apaixonado por **tecnologia, desenvolvimento web e resolução de problemas reais**  
-- 🧪 Explorando o ecossistema **JavaScript, TypeScript, React.js, Node.js e .NET com C#**  
-- 🌍 Já participei de projetos com impacto real, como sites para empreendedores e instituições  
-- 📚 Buscando **constante evolução** com boas práticas e código limpo  
-- 📬 E-mail para contato: [lucasgfranco.dev@gmail.com](mailto:lucasgfranco.dev@gmail.com)
+- 💼 Apaixonado por **tecnologia, desenvolvimento web e resolução de problemas**  
+- 🛠️ Explorando o ecossistema **JavaScript**, com foco em **React.js**, **Node.js** e também **.NET com C#**  
+- 🌐 Projetos com impacto real, incluindo soluções web para empreendedores  
+- 📘 Buscando constante evolução e boas práticas de desenvolvimento  
+- 📫 Contato: [lucasgfranco.dev@gmail.com](mailto:lucasgfranco.dev@gmail.com)
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
-
-<div align="center">
+## 🔧 Tecnologias & Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
 ---
 
-## 🌟 Projetos em Destaque
+## 🌱 Projetos em Destaque
 
-📌 **[Site para Empreendedor](https://github.com/LucaaassDev/ProjetoExtens-o)**  
-Projeto universitário com foco em solução personalizada para negócios locais.
-
-📌 **[Site para Instituto](https://github.com/LucaaassDev/Projetoextensao2)**  
-Solução web desenvolvida para uma instituição educacional.
+- 🔗 [**Site para Empreendedor**](https://github.com/LucaaassDev/ProjetoExtens-o) – Projeto universitário com solução personalizada para pequenos negócios  
+- 🔗 [**Site para Instituto**](https://github.com/LucaaassDev/Projetoextensao2) – Aplicação voltada ao apoio institucional educacional
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaaassDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaaassDev&layout=compact&langs_count=8&theme=radical"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgfranco&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfranco&layout=donut-vertical&theme=onedark&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=lucasgfranco&theme=onedark&hide_border=true" />
+
 </div>
-
----
-
-## 🔥 Streak (dias seguidos de contribuição)
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucaaassDev&theme=radical&hide_border=true"/>
-</div>
-
-
-
 
 ---
 
@@ -84,7 +70,7 @@ Solução web desenvolvida para uma instituição educacional.
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/LucaaassDev" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:lucasgfranco.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -93,17 +79,14 @@ Solução web desenvolvida para uma instituição educacional.
 
 ---
 
-## 💬 Frase motivacional
+## 🧾 Frase motivacional
 
 > *“A prática é o caminho da evolução. Cada linha de código me leva mais longe.”*
 
 ---
 
-## 🇧🇷 Um pouco mais sobre mim
+## 🇧🇷 Sobre mim
 
-Sou o **Lucas Gonzaga Franco**, Desenvolvedor Web Full Stack apaixonado por criar soluções que fazem a diferença.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e me dedico diariamente ao aprendizado de tecnologias modernas.  
-Amo desafios e estou sempre disposto a colaborar em projetos, aprender com a comunidade e crescer como desenvolvedor.
-
----
-
+Olá! Eu sou **Lucas Gonzaga Franco**, Desenvolvedor Web Full Stack apaixonado por criar soluções digitais com **JavaScript, TypeScript, React, Node.js, .NET e C#**.  
+Atualmente estudo **Análise e Desenvolvimento de Sistemas** no *Instituto Piaget* (formando em 2026).  
+Aberto a colaborações e sempre aprendendo! 🚀

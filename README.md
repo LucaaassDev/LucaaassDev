@@ -57,12 +57,9 @@ Solução web desenvolvida para uma instituição educacional.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgfranco&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfranco&layout=compact&theme=radical&hide_border=true" />
-</div>
+![LucaaassDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaaassDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ---
 

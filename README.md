@@ -87,6 +87,6 @@
 
 ## 🇧🇷 Sobre mim
 
-Olá! Eu sou **Lucas Gonzaga Franco**, Desenvolvedor Web Full Stack apaixonado por criar soluções digitais com **JavaScript, TypeScript, React, Node.js, .NET e C#**.  
+Olá! Eu sou **Lucas Gonzaga Franco**, Desenvolvedor Full Stack apaixonado por criar soluções digitais com **JavaScript, TypeScript, React, Node.js, .NET e C#**.  
 Atualmente estudo **Análise e Desenvolvimento de Sistemas** no *Instituto Piaget* (formando em 2026).  
 Aberto a colaborações e sempre aprendendo! 🚀

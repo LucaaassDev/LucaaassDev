@@ -1,6 +1,6 @@
 <!-- Banner animado com estilo tecnológico -->
 <div align="center">
-  <img src="https://github.com/lucasgfranco/lucasgfranco/raw/main/assets/banner_final.gif" width="100%" />
+  <img src="https://github.com/lucasgfranco/lucasgfranco/raw/main/assets/banner.png" width="100%" />
 </div>
 
 <h1 align="center">👋 Olá, eu sou o Lucas Gonzaga Franco</h1>

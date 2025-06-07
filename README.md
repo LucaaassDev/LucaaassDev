@@ -1,6 +1,6 @@
 <!-- Banner animado com estilo tecnológico -->
 <div align="center">
-  <img src="https://github.com/LucaaassDev/LucaaassDev/raw/main/assets/banner2.png" width="100%" />
+  <img src="https://github.com/LucaaassDev/LucaaassDev/raw/main/assets/banner.png" width="100%" />
 </div>
 
 <h1 align="center">👋 Olá, eu sou o Lucas Gonzaga Franco</h1>
@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasgfranco&style=flat-square&color=blue" alt="Visualizações do perfil" />
+  <img src="https://komarev.com/ghpvc/?username=LucaaassDev&style=flat-square&color=blue" alt="Visualizações do perfil" />
 </div>
 
 ---
@@ -53,11 +53,18 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasgfranco&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <!-- Detalhes gerais do perfil -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucaaassDev&theme=github_dark" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfranco&layout=donut-vertical&theme=onedark&hide_border=true" />
+  <!-- Linguagens mais usadas em forma de gráfico -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucaaassDev&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucaaassDev&theme=github_dark" />
 
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=lucasgfranco&theme=onedark&hide_border=true" />
+  <!-- Horário de produtividade -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucaaassDev&theme=github_dark&utcOffset=-3" />
+
+  <!-- Dias consecutivos de contribuição -->
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=LucaaassDev&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 

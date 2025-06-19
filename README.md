@@ -19,7 +19,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Piaget (formando em 2026)  
 - 💼 Apaixonado por **tecnologia, desenvolvimento web e resolução de problemas**  
-- 🛠️ Explorando o ecossistema **JavaScript**, com foco em **React.js**, **Node.js** e também **.NET com C#**  
+- 🛠️ Explorando o ecossistema **.NET com C#**  
 - 🌐 Projetos com impacto real, incluindo soluções web para empreendedores  
 - 📘 Buscando constante evolução e boas práticas de desenvolvimento  
 - 📫 Contato: [lucasgfranco.dev@gmail.com](mailto:lucasgfranco.dev@gmail.com)
@@ -29,9 +29,6 @@
 ## 🔧 Tecnologias & Ferramentas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-/*![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)*/
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -94,6 +91,6 @@
 
 ## 🇧🇷 Sobre mim
 
-Olá! Eu sou **Lucas Gonzaga Franco**, Desenvolvedor Full Stack apaixonado por criar soluções digitais com **JavaScript, TypeScript, React, Node.js, .NET e C#**.  
+Olá! Eu sou **Lucas Gonzaga Franco**, Desenvolvedor Full Stack apaixonado por criar soluções digitais com **JavaScript, Node.js, .NET e C#**.  
 Atualmente estudo **Análise e Desenvolvimento de Sistemas** no *Instituto Piaget* (formando em 2026).  
 Aberto a colaborações e sempre aprendendo! 🚀

@@ -1,6 +1,6 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=239120&height=200&section=header&text=Lucas%20Franco&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Backend%20C%23%20|%20.NET%20Developer&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Lucas%20Franco&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Backend%20C%23%20|%20.NET%20Developer&descAlignY=55&descAlign=50)
 
 [![GitHub followers](https://img.shields.io/github/followers/LucaaassDev?label=Followers&style=social)](https://github.com/LucaaassDev)
 [![GitHub stars](https://img.shields.io/github/stars/LucaaassDev?label=Stars&style=social)](https://github.com/LucaaassDev)
@@ -51,12 +51,12 @@ Desenvolvedor **Backend** apaixonado por criar soluções eficientes e escaláve
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaaassDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaaassDev&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaaassDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaaassDev&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucaaassDev&theme=dracula" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucaaassDev&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -104,8 +104,8 @@ Sistema educacional interativo em C# com interface de console estilizada
 
 ⭐ **Se você gostou dos meus projetos, considere dar uma estrela!** ⭐
 
-![](https://komarev.com/ghpvc/?username=LucaaassDev&color=239120&style=flat-square&label=Visitantes+do+Perfil)
+![](https://komarev.com/ghpvc/?username=LucaaassDev&color=6A5ACD&style=flat-square&label=Visitantes+do+Perfil)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=239120&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer)
 
 </div>

@@ -1,8 +1,6 @@
 <div align="center">
   
-# 👋 Olá! Eu sou Lucas Franco
-
-### Desenvolvedor Backend C# | .NET Developer
+![Header](https://capsule-render.vercel.app/api?type=waving&color=239120&height=200&section=header&text=Lucas%20Franco&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Backend%20C%23%20|%20.NET%20Developer&descAlignY=55&descAlign=50)
 
 [![GitHub followers](https://img.shields.io/github/followers/LucaaassDev?label=Followers&style=social)](https://github.com/LucaaassDev)
 [![GitHub stars](https://img.shields.io/github/stars/LucaaassDev?label=Stars&style=social)](https://github.com/LucaaassDev)
@@ -86,22 +84,28 @@ Sistema educacional interativo em C# com interface de console estilizada
 
 ---
 
-## 💡 Frase Motivacional
+## 💭 Filosofia de Desenvolvimento
 
 <div align="center">
-  
-> *"O código é como humor. Quando você precisa explicar, é ruim."* - Cory House
+
+> *"Qualquer tolo pode escrever código que um computador consiga entender. Bons programadores escrevem código que humanos consigam entender."*  
+> — **Martin Fowler**
+
+> *"Simplicidade é o mais alto grau de sofisticação."*  
+> — **Leonardo da Vinci**
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💻 "Código limpo não é escrito seguindo regras. Você sabe que escreveu código limpo quando cada rotina que você lê é praticamente o que você esperava." - Robert C. Martin
+
+### 🎯 Comprometido com código de qualidade, boas práticas e aprendizado contínuo
 
 ⭐ **Se você gostou dos meus projetos, considere dar uma estrela!** ⭐
 
-![](https://komarev.com/ghpvc/?username=LucaaassDev&color=blue&style=flat-square&label=Visitantes+do+Perfil)
+![](https://komarev.com/ghpvc/?username=LucaaassDev&color=239120&style=flat-square&label=Visitantes+do+Perfil)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=239120&height=120&section=footer)
 
 </div>

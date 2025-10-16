@@ -1,96 +1,107 @@
-<!-- Banner animado com estilo tecnológico -->
 <div align="center">
-  <img src="https://github.com/LucaaassDev/LucaaassDev/raw/main/assets/banner.png" width="100%" />
-</div>
+  
+# 👋 Olá! Eu sou Lucas Franco
 
-<h1 align="center">👋 Olá, eu sou o Lucas Gonzaga Franco</h1>
+### Desenvolvedor Backend C# | .NET Developer
 
-<p align="center">
-  🎓 Estudante de ADS | 💻 Desenvolvedor Full Stack | 🚀 Em constante evolução
-</p>
+[![GitHub followers](https://img.shields.io/github/followers/LucaaassDev?label=Followers&style=social)](https://github.com/LucaaassDev)
+[![GitHub stars](https://img.shields.io/github/stars/LucaaassDev?label=Stars&style=social)](https://github.com/LucaaassDev)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucaaassDev&style=flat-square&color=blue" alt="Visualizações do perfil" />
 </div>
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 Sobre Mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no Instituto Piaget (formando em 2026)  
-- 💼 Apaixonado por **tecnologia, desenvolvimento web e resolução de problemas**  
-- 🛠️ Explorando o ecossistema **.NET com C#**  
-- 🌐 Projetos com impacto real, incluindo soluções web para empreendedores  
-- 📘 Buscando constante evolução e boas práticas de desenvolvimento  
-- 📫 Contato: [lucasgfranco.dev@gmail.com](mailto:lucasgfranco.dev@gmail.com)
+Desenvolvedor **Backend** apaixonado por criar soluções eficientes e escaláveis. Especializado em **C#** e **.NET**, com experiência em desenvolvimento web full-stack e mobile.
 
----
-
-## 🔧 Tecnologias & Ferramentas
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🎯 Focado em **Backend Development** com C# e .NET
+- 💻 Desenvolvedor Full Stack com conhecimento em React e React Native
+- 🗄️ Experiência com bancos de dados relacionais (MySQL) e NoSQL (MongoDB)
+- 📚 Sempre em busca de aprender novas tecnologias e boas práticas
+- 🔧 Apaixonado por código limpo e arquiteturas bem estruturadas
 
 ---
 
-## 🌱 Projetos em Destaque
+## 🛠️ Tecnologias & Ferramentas
 
-- 🔗 [**Site para Empreendedor**](https://github.com/LucaaassDev/ProjetoExtens-o) – Projeto universitário com solução personalizada para pequenos negócios  
-- 🔗 [**Site para Instituto**](https://github.com/LucaaassDev/Projetoextensao2) – Aplicação voltada ao apoio institucional educacional
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Ferramentas & Outros
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaaassDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaaassDev&layout=compact&langs_count=8&theme=dracula"/>
+</div>
 
-  <!-- Detalhes gerais do perfil -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucaaassDev&theme=github_dark" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucaaassDev&theme=dracula" alt="GitHub Streak"/>
+</div>
 
-  <!-- Linguagens mais usadas em forma de gráfico -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucaaassDev&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucaaassDev&theme=github_dark" />
+---
 
-  <!-- Horário de produtividade -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucaaassDev&theme=github_dark&utcOffset=-3" />
+## 🔥 Projetos em Destaque
 
-  <!-- Dias consecutivos de contribuição -->
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=LucaaassDev&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+### 📚 [Explorando C# - Sistema Educacional](https://github.com/LucaaassDev/ExemploExplorando)
+Sistema educacional interativo em C# com interface de console estilizada
+- ✨ Menu interativo com submenus
+- 🏗️ Exemplos práticos de POO
+- 📖 Sistema completo de gerenciamento de cursos e alunos
+- ⚠️ Tratamento de exceções com exemplos práticos
+
+---
+
+## 📫 Como me Encontrar
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucaaassDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-franco-150598247/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasgonzagafranco19@gmail.com)
 
 </div>
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 💡 Frase Motivacional
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-franco-150598247/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/LucaaassDev" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:lucasgfranco.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  
+> *"O código é como humor. Quando você precisa explicar, é ruim."* - Cory House
+
+</div>
 
 ---
 
-## 🧾 Frase motivacional
+<div align="center">
+  
+### 💻 "Código limpo não é escrito seguindo regras. Você sabe que escreveu código limpo quando cada rotina que você lê é praticamente o que você esperava." - Robert C. Martin
 
-> *“A prática é o caminho da evolução. Cada linha de código me leva mais longe.”*
+⭐ **Se você gostou dos meus projetos, considere dar uma estrela!** ⭐
 
----
+![](https://komarev.com/ghpvc/?username=LucaaassDev&color=blue&style=flat-square&label=Visitantes+do+Perfil)
 
-## 🇧🇷 Sobre mim
-
-Olá! Eu sou **Lucas Gonzaga Franco**, Desenvolvedor Full Stack apaixonado por criar soluções digitais com **JavaScript, Node.js, .NET e C#**.  
-Atualmente estudo **Análise e Desenvolvimento de Sistemas** no *Instituto Piaget* (formando em 2026).  
-Aberto a colaborações e sempre aprendendo! 🚀
+</div>
